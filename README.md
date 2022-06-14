@@ -140,5 +140,5 @@
     3. Hibernate
     4. Разные интеграции
 3. New Mobile banking app (backend)
-    1. Spring (Boot) Framework
+    1. Технологии являются банковской тайной
     2. Все нужные интеграции для мобильного банкинга
